@@ -1,4 +1,4 @@
-#Use before GO_slim_attribute_applier
+#Use before GO_slim_attribute_applier_2
 
 slim_term <- "flower development" #Input your GO slim term
 
