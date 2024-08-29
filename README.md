@@ -1,3 +1,4 @@
+See also: 2-layer-network-creator in https://github.com/BethMolloy/Effectorome_H_schachtii
 
 ## Programs used
 R 4.2.2
